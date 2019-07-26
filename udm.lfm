@@ -1,0 +1,8 @@
+object DM: TDM
+  OldCreateOrder = False
+  Height = 342
+  HorizontalOffset = 584
+  VerticalOffset = 212
+  Width = 462
+  PPI = 96
+end
